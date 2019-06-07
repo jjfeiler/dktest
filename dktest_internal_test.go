@@ -14,7 +14,7 @@ import (
 )
 
 import (
-	"github.com/dhui/dktest/mockdockerclient"
+	"github.com/jjfeiler/dktest/mockdockerclient"
 )
 
 const (

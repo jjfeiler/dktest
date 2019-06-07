@@ -13,7 +13,7 @@ import (
 )
 
 import (
-	"github.com/dhui/dktest"
+	"github.com/jjfeiler/dktest"
 )
 
 const (
